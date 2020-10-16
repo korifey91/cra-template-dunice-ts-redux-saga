@@ -1,4 +1,4 @@
-## Create React App template dunice-ts  
+## Create React App template dunice-ts-redux-saga  
 
 Template for Create React App supporting TypeScript and SCSS files.  
 Included with:  
