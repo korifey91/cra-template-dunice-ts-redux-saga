@@ -43,7 +43,8 @@ The CRA Custom Template does not yet have support for `devDependencies`, so I re
     "react-redux": "^7.2.1",
     "react-scripts": "3.4.3",
     "redux-saga": "^1.1.3",
-    "typescript": "~3.7.2"
+    "typescript": "~3.7.2",
+    "node-sass": "^4.14.1",
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
