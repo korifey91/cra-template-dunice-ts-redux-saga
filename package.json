@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-dunice-ts-redux-saga",
+  "version": "0.1.0",
+  "main": "template.json",
+  "license": "MIT",
+  "author": "Kirill Efimov",
+  "description": "Template for Create React App supporting TypeScript and SCSS files. Included with Redux, Saga, Axios, Prettier, Stylelint and ESlint config recommended by Airbnb and Husky with pre-commit hook.",
+  "keywords": [
+    "airbnb",
+    "cra",
+    "create-react-app",
+    "eslint",
+    "prettier",
+    "react",
+    "template",
+    "typescript",
+    "stylelint",
+    "redux",
+    "saga",
+    "axios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korifey91/cra-template-dunice-ts-redux-saga.git"
+  },
+  "homepage": "https://github.com/korifey91/cra-template-dunice-ts-redux-saga#readme"
+}
